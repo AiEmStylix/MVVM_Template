@@ -1,0 +1,5 @@
+D:\DotNet\Tutorial\MVVM\obj\Debug\MVVM.csproj.AssemblyReference.cache
+D:\DotNet\Tutorial\MVVM\obj\Debug\MainWindow.g.cs
+D:\DotNet\Tutorial\MVVM\obj\Debug\App.g.cs
+D:\DotNet\Tutorial\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+D:\DotNet\Tutorial\MVVM\obj\Debug\MVVM_MarkupCompile.lref
